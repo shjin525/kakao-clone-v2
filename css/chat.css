@@ -6,11 +6,11 @@
 .chats-body .status-bar {
   padding: 0px 20px;
 }
+
 .chat-screen {
   background-image: url("../images/chatBg.png");
   min-height: 100vh;
 }
-/* 점점은 뭔가용?  min-height는??*/
 
 .chat__write {
   position: fixed;
@@ -75,7 +75,6 @@
   align-items: flex-start;
   margin-bottom: 20px;
 }
-/* width가 정확히 뭔지 */
 
 .incoming-message {
   align-self: flex-start;
